@@ -4,7 +4,7 @@
 
 <br>
 
-- &#128301; Cration original de Video YT
+- &#128301; Creation original de Video YT
 
 - &#127793; Creations d'application **Android Studio** 
 
