@@ -6,12 +6,12 @@
 
 - &#128301; Je suis en train de **coder**
 
-- &#127793; Je suis en train d'apprendre **Android Studio** 
+- &#127793; Creation d'application **Android Studio** 
 
 
 <br>
 
-## <p align="center"> Softwares & tools i use
+## <p align="center"> Softwares & Outils que j'utilise
 
 <p align="center">
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg">
