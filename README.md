@@ -6,7 +6,7 @@
 
 - &#128301; Je suis en train de **coder**
 
-- &#127793; Creation d'application **Android Studio** 
+- &#127793; Creations d'application **Android Studio** 
 
 
 <br>
