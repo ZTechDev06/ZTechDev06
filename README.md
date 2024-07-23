@@ -19,7 +19,7 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox3.svg">
     <img arc="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg">
-    <img src="">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg">
 
 <br>
 
