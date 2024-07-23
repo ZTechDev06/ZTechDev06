@@ -1,10 +1,10 @@
-<h1 align="center">Hey there &#x1F44B;, It's me RemDev 
+<h1 align="center">Hey there &#x1F44B;, It's me ZTech
 
 <p align="center"> <img src="[![](https://visitcount.itsvg.in/api?id=remibooop&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)">
 
 <br>
 
-- &#128301; Je suis en train de **coder**
+- &#128301; Cration original de Video YT
 
 - &#127793; Creations d'application **Android Studio** 
 
