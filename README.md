@@ -1,7 +1,7 @@
 <h1 align="center">Hey there &#x1F44B;, It's me ZTech
 
 <p align="center"> <img src="[![](https://visitcount.itsvg.in/api?id=remibooop&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)">
-
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=ZTechDev06&label=Profile%20Views&color=3&icon=0&pretty=true">
 <br>
 
 - &#128301; Creation original de Video YT
